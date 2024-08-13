@@ -1,0 +1,123 @@
+/* CSS Document */
+.header {
+  height: 1050px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.h1 {
+  height: 250px;
+  width: 1000px;
+}
+.logo {
+  height: 250px;
+  width: 300px;
+  float: left;
+}
+.name {
+  height: 250px;
+  width: 700px;
+  float: right;
+  background-color: brown;
+}
+.n {
+  position: relative;
+  top: -218px;
+  left: 200px;
+  font-family: "Courier New";
+  font-size: 50px;
+  font-style: bold;
+  color: white;
+}
+.n1 {
+  position: relative;
+  top: -212px;
+  left: 230px;
+  font-family: "Adorable";
+  font-size: 22px;
+  font-style: bold;
+  color: white;
+}
+.m {
+  height: 50px;
+  width: 1001px;
+  background-color: #999999;
+}
+.m ul {
+  margin: 0px;
+  padding: 18px;
+}
+.m li {
+  display: inline;
+  padding: 60px;
+}
+#about {
+  height: 700px;
+  width: 100%;
+  background-image: linear-gradient(to right, pink, purple);
+}
+.row3 {
+  height: 400px;
+  width: 100%;
+}
+.col5 {
+  height: 400px;
+  width: 550px;
+  float: left;
+}
+.col6 {
+  height: 400px;
+  width: calc(100%-550px);
+  float: right;
+}
+.col5 img {
+  position: relative;
+  top: 25px;
+  left: 25px;
+}
+.col6 p {
+  font-size: 24px;
+  padding-top: 25px;
+  text-align: justify;
+  width: 90%;
+  margin: auto;
+}
+.row4 {
+  height: 300px;
+  width: 100%;
+}
+.row4 p {
+  font-size: 24px;
+  text-align: justify;
+  width: 95%;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.service {
+  position: relative;
+  padding: 1px 0 1px 0;
+  text-align: center;
+}
+.table {
+  height: 100px;
+  vertical-align: middle;
+}
+.footer {
+  padding: 6px 0px;
+  height: 150px;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  border: gray;
+}
+.copy {
+  height: 61px;
+  width: 1000px;
+  float: left;
+  font-family: "Courier New";
+  font-size: 32px;
+  color: White;
+  text-align: center;
+  background-color: gray;
+}
